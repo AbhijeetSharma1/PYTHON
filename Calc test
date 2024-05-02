@@ -1,0 +1,8 @@
+a=1
+b=10
+
+res1 = a+b
+print("Addition of",a,"and", b,"is", res1) 
+
+res2=a-b
+print("Subtraction of",a,"&","b","is", res2)
